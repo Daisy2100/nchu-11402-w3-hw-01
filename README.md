@@ -2,6 +2,10 @@
 
 **Live Demo:** [https://daisy2100.github.io/nchu-11402-w3-hw-01/](https://daisy2100.github.io/nchu-11402-w3-hw-01/)
 
+<div align="center">
+  <img src="https://image.thum.io/get/width/1200/crop/800/https://daisy2100.github.io/nchu-11402-w3-hw-01/" alt="Archive of Light Preview" width="100%">
+</div>
+
 A single-page personal website featuring a clinical yet warm aesthetic.
 
 ## 🎨 Design Concept
