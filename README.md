@@ -1,5 +1,7 @@
 # Archive of Light (透光檔案室)
 
+**Live Demo:** [https://daisy2100.github.io/nchu-11402-w3-hw-01/](https://daisy2100.github.io/nchu-11402-w3-hw-01/)
+
 A single-page personal website featuring a clinical yet warm aesthetic.
 
 ## 🎨 Design Concept
